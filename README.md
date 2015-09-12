@@ -1,5 +1,6 @@
 # The-Meaning-Of-Life
 
+Doe the following:
 
 Download the entire file (basically pull and sync the file with a file on Android Studio or import the project)
 
